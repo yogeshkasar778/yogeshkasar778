@@ -10,6 +10,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  <div id="header" align="center">
+<div id="badges">
+  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
+   <img src="https://komarev.com/ghpvc/?username=yogeshkasar778&style=flat-square&color=blue" alt=""/>
+  </a>
+  <h1>
 ### Hi there 👋 I'm Yogesh Kasar
 
 <!--
