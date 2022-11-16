@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="yogesh-kasar-58b99820a">
+  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/iamyogmarathe">
