@@ -16,8 +16,10 @@
    <img src="https://komarev.com/ghpvc/?username=yogeshkasar778&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
-### Hi there 👋 I'm Yogesh Kasar
-
+### Hi there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Yogesh Kasar
+</h1>
 <!--
 **yogeshkasar778/yogeshkasar778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
