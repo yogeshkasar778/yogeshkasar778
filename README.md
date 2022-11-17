@@ -12,7 +12,6 @@
 </div>
   <div id="header" align="center">
 <div id="badges">
-  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
    <img src="https://komarev.com/ghpvc/?username=yogeshkasar778&style=flat-square&color=blue" alt=""/>
   </a>
   <h1>
