@@ -50,5 +50,6 @@ I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/med
 ### :fire: My Stats :
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogeshkasar778&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkasar778&layout=compact&theme=vision-friendly-dark)](https://github.com/yogeshkasar778/github-readme-stats)
+   ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkasar778&theme=dark&show_icons=true)
+   
    
