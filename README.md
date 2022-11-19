@@ -33,7 +33,7 @@ I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/med
 - 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on Data Science Projects
 - 💬 You can reach me on: kasary778@gmail.com
-- 📫 You can follow me on:https://www.linkedin.com/in/yogesh-kasar-58b99820a/
+- 📫 You can follow me on LinkedIn:https://www.linkedin.com/in/yogesh-kasar-58b99820a/
 ---
    ### :hammer_and_wrench: Languages and Tools :
    <div>
@@ -53,6 +53,3 @@ I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/med
    ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkasar778&theme=dark&show_icons=true)
    ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
