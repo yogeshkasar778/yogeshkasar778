@@ -29,9 +29,9 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Science** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from India.   
+I am a **Data** **Science**/**Data **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from India.   
 - 🌱 I’m currently learning **Data Science**
-- 👯 I’m looking to collaborate on Data Science Projects
+- 👯 I’m looking to collaborate on Data Science/Analyst Projects
 - 💬 You can reach me on: kasary778@gmail.com
 - 📫 You can follow me on LinkedIn:https://www.linkedin.com/in/yogesh-kasar-58b99820a/
 ---
