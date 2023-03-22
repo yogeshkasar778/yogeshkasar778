@@ -34,6 +34,7 @@ I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https:
 - 👯 I’m looking to collaborate on Data Science/Analyst Projects
 - 💬 You can reach me on: kasary778@gmail.com
 - 📫 You can follow me on LinkedIn:https://www.linkedin.com/in/yogesh-kasar-58b99820a/
+- 📫 You can check my PowerBI Portfolio:https://www.novypro.com/profile_projects/yogeshkasar97
 ---
    ### :hammer_and_wrench: Languages and Tools :
    <div>
