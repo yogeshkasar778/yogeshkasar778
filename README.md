@@ -3,7 +3,7 @@
 </div>
 <div id="header" align="center">
 <div id="badges">
-  <a href="www.linkedin.com/in/yogesh-kasar-58b99820a">
+  <a href="https://www.linkedin.com/in/yogeshkasar97/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/iamyogmarathe">
@@ -29,12 +29,12 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from India.   
+I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from Maharashtra(India).   
 - 🌱 I’m currently learning **Data Analyst/Science**
 - 👯 I’m looking to collaborate on Data Science/Analyst Projects
 - 💬 You can reach me on: kasary778@gmail.com
-- 📫 You can follow me on LinkedIn:https://www.linkedin.com/in/yogesh-kasar-58b99820a/
-- 📫 You can check my PowerBI Portfolio:https://www.novypro.com/profile_projects/yogeshkasar97
+- 📫 You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/yogeshkasar97/)
+- 📫 You can check my PowerBI Portfolio: [Portfolio](https://www.novypro.com/profile_projects/yogeshkasar97)
 ---
    ### :hammer_and_wrench: Languages and Tools :
    <div>
