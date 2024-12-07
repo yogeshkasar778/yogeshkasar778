@@ -29,7 +29,7 @@
    
 👨‍💻 **About** **Me**:
 
-I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from Maharashtra(India).   
+I'm a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with B.E.(Mechanical Engg.) from Maharashtra(India).   
 - :books: I’m currently learning **Data Analyst/Science** and exploring the fascinating world of data analysis, data visualization, and technology.
 - :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
