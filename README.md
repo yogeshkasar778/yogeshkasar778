@@ -59,7 +59,7 @@ I'm a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https:/
      <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="60" height="60"/>&nbsp;
      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
      <img src="https://avatars.githubusercontent.com/u/107918673?s=200&v=4" title="LangChain" alt="LangChain" width="40" height="40"/>&nbsp;
-     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
+     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
