@@ -43,27 +43,32 @@ I'm a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https:/
 
 **Skills**:
 - :bar_chart: Data Analysis
-- :chart_with_upwards_trend: Data Visualization and Modeling
-- :computer: SQL - MS SQL Server
-- :chart_with_downwards_trend: Power BI - DAX, Power Query
 - :desktop_computer: Python
+- :robot: Machine Learning
+- :brain:	Artificial Intelligence (AI)	
+- :chart_with_upwards_trend: Data Visualization and Modeling - (Power BI, AWS QuickSights, Looker)
+- :computer: SQL - (MySQL, Snowflake, MS SQL Server, BigQuery)
 - :chart: Excel
----
 
 **:hammer_and_wrench: Languages and Tools :**
    <div>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Snowflake_Logo.svg/2560px-Snowflake_Logo.svg.png" title="Snowflake" alt="Snowflake" width="40" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Cloud_BigQuery_Logo.png" title="BigQuery" alt="BigQuery" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/scikit-learn/scikit-learn-original-wordmark.svg" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
+     <img src="https://huggingface.co/front/assets/huggingface_logo.svg" title="Hugging Face" alt="Hugging Face" width="40" height="40"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/images/logo.png" title="LangChain" alt="LangChain" width="40" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
+     <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" title="Streamlit" alt="Streamlit" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL Server" alt="MSSQL Server" width="40" height="40"/>&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-     <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="kaggle" alt=" " width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40"height="40"/>&nbsp;
-     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
-  
    </div>
    
    ---
