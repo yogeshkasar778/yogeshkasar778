@@ -74,10 +74,8 @@ I'm a **Data** **Science**/**Data** **Analyst** **Enthusiast** <img src="https:/
 
 ### :fire: My Stats :
 
-   ![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=yogeshkasar778&margin-w=15)
+   [![trophy](https://github-profile-trophy.vercel.app/?username=yogeshkasar778)](https://github.com/ryo-ma/github-profile-trophy)
    
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogeshkasar778&theme=dark&border_radius=4.3)](https://git.io/streak-stats)
-   
-   ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshkasar778&theme=dark&show_icons=true)
    ---
 
